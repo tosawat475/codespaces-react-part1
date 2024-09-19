@@ -1,0 +1,13 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: 20px;
+}
+
+button
+{
+    color: white;
+    border-radius: 12px;
+    padding: 6px;
+    background-color: rgb(61, 224, 61);
+}
